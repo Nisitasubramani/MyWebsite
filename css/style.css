@@ -1,0 +1,400 @@
+#topbar
+{
+    background-color: black;
+    height:15px;
+    width:100%;
+    color:red;
+}
+body{
+    background-color: white;
+}
+#container{
+    height:900px;
+    width:80%;
+    margin:0px auto;
+}
+#header{
+    height:80px;
+    background-color:#FFFF;
+}
+#header img{
+    height:80px;
+    margin:0px auto;
+}
+#header ul{
+    float:right;
+    margin-top: 25px;
+}
+#header ul li{
+    display: inline;
+    margin-right:100px;
+
+}
+#header ul li a{
+    color:#1B1212;	
+    text-decoration: none;
+    font-size: 19px;
+}
+#banner{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#banner img{
+    display: block;
+    margin: 0 auto;
+    width:30%;
+    padding-bottom: 20PX;
+}
+#content1{
+    width:32%;
+    height:300px;
+    background-color:#FCA42C ;
+    float: left;
+    margin-right: 2%;
+}
+#content2{
+    width: 32%;
+    height:300px;
+    background-color: black;
+    float: left;
+}
+#content3{
+    width: 32%;
+    height:300px;
+    background-color:#FCA42C ;
+    float: right;
+}
+.heading{
+    color: white;
+    margin-left: 30px;
+    font-size: 25px;
+}
+.para1{
+    color:white;
+    margin-left:30px ;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.heading2{
+    color:white;
+    margin-left: 30px;
+    font-size:25px ;
+    margin-top: 30px;  
+   
+}
+.para2{
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+
+}
+.heading3{
+    color:white;
+    margin-left: 30px;
+    font-size:25px ; 
+    margin-top: 30px;  
+}
+.para3{
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+   
+}
+#bottom1{
+    width: 60%;
+    background-color:white;
+    float: left;
+    /* margin-top: 19px; */
+}
+#bottom2{
+    /* margin-bottom: 140px; */
+    width: 40%;
+    background-color:white;
+    float: right; 
+}
+.para5{
+    font-size: 25px;
+    margin-left: 30px;
+}
+.bottoma{
+    color: black;
+    margin-left: 30px;
+    font-size: 25px;
+}
+.bottomb{
+    color: black;
+    margin-left: 30px;
+    font-size: 25px; 
+    margin-bottom: 40px;
+}
+.para4{
+    color: black;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.read{
+    text-decoration: none;
+    margin-left: 30px;
+    background-color:#FCA42C;
+    color:black;
+    text-decoration: underline;
+}
+
+.content{
+    margin-left: 30px;
+}
+#footer{
+    width:100%;
+    height: 60px;
+    background-color: #1B1212;
+    clear:both;
+    margin-top: 20px;
+    
+}
+#footer ul{
+    float:left;
+    margin-top: 25px;
+}
+#footer ul li{
+    display: inline;
+    margin-right:100px;
+
+}
+#footer ul li a{
+    color:white;	
+    text-decoration: none;
+    font-size: 15px;
+}
+#footer p{
+    color:white;
+    float: right;
+    margin-right: 20px;
+}
+#abouttopbar{
+    background-color: #1B1212;
+    width: 100%;
+    height:20px;
+}
+#aboutbanner img{
+    margin-left: 300px;
+    width: 70%;
+    height: 600px;
+    margin-right: 50px;
+
+}
+#about{
+    margin-left: 50px;
+    font-size: 25px;
+}
+#content4{
+    margin-left: 300px;
+    margin-right: 30px;
+    width: 70%;
+    background-color: darkslategray;
+}
+.nisita{
+    margin-left: 30px;
+    margin-right: 30px;
+    color: black;
+    font-size: 20px;
+}
+#aboutfooter{
+    background-color: black;
+    width:100% ;
+    height: 40px;
+    clear: both;
+}
+#contacttopbar{
+    background-color: #1B1212;
+    width: 100%;
+    height: 20px;
+} 
+#contact{
+    margin-left: 50px;
+    font-size: 25px;
+}
+#contactbanner img{
+    margin-left: 300px;
+    width: 70%;
+    height: 600px;
+    margin-right: 50px;
+}
+#content5{
+    margin-left: 300px;
+    margin-right: 30px;
+    width: 70%;
+    background-color: rgb(72, 78, 80);
+}
+.nisita1{
+    margin-left: 30px;
+    margin-right: 30px;
+    color: white;
+    font-size: 20px;
+}
+.nisita2{
+    margin-right:none;
+    margin-left: 500px;
+    color: rgb(168, 144, 8);
+}
+#mail{
+    background-color: rgb(6, 45, 79);
+    color:white;
+    padding: 10px;
+}
+#ul{
+    float:left;
+    margin-top: 25px;
+}
+#ul li{
+    display: inline;
+    margin-right:100px;
+}
+#mail a{
+    color:white;
+    text-decoration: none;
+    font-size: 16px;
+}
+#contactfooter{
+    background-color:#1B1212;
+    width: 100%;
+    height: 20px;
+}
+.form-group{
+    background-color:rgb(12, 71, 122) ;
+    margin-left: 300px;
+    font-size: 30px;
+    color: white;
+    margin-right: 30px;
+    width: 60%;
+    
+    
+
+    
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#pic1{
+    background-color: white;
+}
+.picc1{
+    width: 80%;
+    height: 200px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+#project_topbar{
+    background-color: #1B1212;
+    height: 20px;
+    width: 100%;
+}
+#project{
+    margin-left: 20px;
+}
+#vanzhi1{
+    background-color: white;
+
+}
+.vanzhi1_image{
+    width: 100%;
+}
+#vanzhi2{
+    background-color: white;
+}
+.vanzhi2_image{
+    width: 100%;
+}
+#info{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(188, 47, 47);
+    columns: black;
+    font-size: 20px;
+}
+.thanks{
+    font-size: 40px;
+    margin-left: 30px;
+    font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.form-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 12px; /* Curved corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px; /* Limit the width of the form */
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Form styling */
+form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px; /* Rounded input fields */
+    font-size: 16px;
+}
+
+button {
+    padding: 12px;
+    background-color:rgb(12, 71, 122);
+    color: white;
+    border: none;
+    border-radius: 8px; /* Rounded button */
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: rgb(12, 71, 122);
+}
+.form-container {
+    background-color: rgb(72, 78, 80);  /* Light grey color */
+    padding: 20px;
+    border-radius: 12px;  /* Curved corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px; 
+    color: white;}
